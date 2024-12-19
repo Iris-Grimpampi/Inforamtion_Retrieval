@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Bilinear_interpolation
+https://en.wikipedia.org/wiki/Quadrilateral
+https://en.wikipedia.org/wiki/Euclidean_geometry
